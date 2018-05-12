@@ -1,0 +1,8 @@
+.trail-card {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+}
+
+.trail-card h1 {
+  font-size: calc(2vw + 2vh + .75vmin);
+}

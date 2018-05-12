@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+html {
+  height: 100%;
+  /* box-shadow: 20px 0 100px -4px #333 inset, -20px 0 100px -4px #333 inset; */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('./assets/img/trail-bg.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}

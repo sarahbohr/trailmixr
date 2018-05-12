@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Loved+by+the+King');
+
+/* 
+#f7f7f7 white smoke
+#aace98 laurel green
+#429456 middle green
+#3d7530 sap green
+#173933 medium jungle green
+*/
+
+header {
+  height: 5vh;
+}
+
+.navbar {
+  background: #173933;
+  height: 10vh;
+}
+
+.navbar > .navbar-brand {
+  font-family: 'Loved by the King', sans-serif;
+  font-size: calc(2vw + 2vh + 1vmin);
+  color: #429456;
+  letter-spacing: .3vw;
+}
+
+.navbar-brand:hover {
+  color: #666;
+}
+
+.navbar li a {
+  color: #8fb9a1;
+}
+
+.navbar li a:hover {
+  color: #ccc;
+  border-bottom: 2px solid #b5d3af;
+}
+
+/* .navbar a.active {
+  color: #ccc;
+  border-bottom: 2px solid #b5d3af;
+} */
+
+/* .tree {
+  width: 1.3vw;
+  min-width: 1.3vw;
+  color: #f7f7f7;
+  text-shadow: 3px 3px 5px #000;
+} */
